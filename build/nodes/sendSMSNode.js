@@ -3,7 +3,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.sendSMSNode = void 0;
 const extension_tools_1 = require("@cognigy/extension-tools");
 const axios_1 = require("axios");
-const qs = require('qs');
 exports.sendSMSNode = extension_tools_1.createNodeDescriptor({
     type: "sendSMS",
     defaultLabel: "Send SMS",
