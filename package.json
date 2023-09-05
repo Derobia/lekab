@@ -1,7 +1,7 @@
 {
   "name": "lekab",
   "version": "2.1.0",
-  "description": "Integrates Lekab functionality with Cognigy.AI",
+  "description": "Exposes Lekab functionality to Cognigy.AI",
   "main": "build/module.js",
   "scripts": {
     "transpile": "tsc -p .",
@@ -20,6 +20,7 @@
   "dependencies": {
     "@cognigy/extension-tools": "^0.13.0",
     "axios": "^0.21.4",
+    "fatal": "^0.0.1",
     "qs": "^6.11.2",
     "tslint": "^6.1.2"
   },

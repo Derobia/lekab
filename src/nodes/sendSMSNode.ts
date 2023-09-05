@@ -1,5 +1,6 @@
 import { createNodeDescriptor, INodeFunctionBaseParams } from "@cognigy/extension-tools";
 import axios from 'axios';
+const qs = require('qs');
 
 export interface ISendSMSParams extends INodeFunctionBaseParams {
 	config: {
