@@ -15,7 +15,7 @@
     "Lekab",
     "SMS"
   ],
-  "author": "Petteri Paasikunnas",
+  "author": "Petteri Paasikunnas / Lekab",
   "license": "MIT",
   "dependencies": {
     "@cognigy/extension-tools": "^0.13.0",
