@@ -1,7 +1,7 @@
 {
   "name": "lekab",
   "version": "2.1.0",
-  "description": "Exposes Lekab functionality to Cognigy.AI",
+  "description": "Integrates Lekab functionality with Cognigy.AI",
   "main": "build/module.js",
   "scripts": {
     "transpile": "tsc -p .",
